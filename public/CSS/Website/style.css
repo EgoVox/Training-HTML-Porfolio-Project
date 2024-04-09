@@ -1,0 +1,38 @@
+body{
+  background-color: #FFFFFF;
+}
+
+.card{
+  text-align : center;
+  padding : 25px;
+  background: 750c02;
+  margin: 25px auto;
+  border: 2px solid gray;
+  radius: 5px;
+  box-shadow: 1px 1px 2px #FFC3AD;
+  width: auto;
+}
+
+.round-corner{
+  border-radius: 10px;
+}
+
+#inline_list li{
+  display: inline;
+  color: white;
+  background-color: #750c02;
+  padding : 10px;
+  border : 2px;
+  border-radius : 5px;
+  box-shadow: 1px 1px 2px gray;
+  font-weight: bold;
+}
+
+#inline_list a{
+  text-decoration: none;
+  color: white;
+}
+
+#inline_list a:hover{
+  color: #DC5404;
+}
